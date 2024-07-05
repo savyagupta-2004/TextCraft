@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextCraft/static/css/main.e6c13ad2.css",
+    "main.js": "/TextCraft/static/js/main.dadfb036.js",
+    "static/js/453.ed3810f9.chunk.js": "/TextCraft/static/js/453.ed3810f9.chunk.js",
+    "static/media/Mountains.jpeg": "/TextCraft/static/media/Mountains.52acc0a18bd38d3e2406.jpeg",
+    "index.html": "/TextCraft/index.html",
+    "main.e6c13ad2.css.map": "/TextCraft/static/css/main.e6c13ad2.css.map",
+    "main.dadfb036.js.map": "/TextCraft/static/js/main.dadfb036.js.map",
+    "453.ed3810f9.chunk.js.map": "/TextCraft/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dadfb036.js"
+  ]
+}
